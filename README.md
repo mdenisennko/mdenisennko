@@ -93,19 +93,7 @@ SQL-проект по анализу пользовательской актив
 
 **Навыки:** Business Analysis, Product Research, CustDev, Competitive Analysis, CJM
 
-[Перейти к проекту →](ССЫЛКА)
-
----
-
-### 🎬 Влияние премиум-подписки на LTV пользователя
-
-Проект по каузальному анализу, посвященный оценке влияния премиум-подписки на Lifetime Value пользователя онлайн-кинотеатра.
-
-В работе рассматривались эндогенность воздействия, инструментальные переменные и методы оценки причинного эффекта: OLS, IPW, Doubly Robust, DML, DML-IV, S/T/X-Learner.
-
-**Стек:** Python, pandas, scikit-learn, Causal Inference
-
-[Перейти к проекту →](ССЫЛКА)
+[Перейти к проекту →](https://github.com/mdenisennko/kids-banking-product-research)
 
 ---
 
