@@ -105,7 +105,7 @@ SQL-проект по анализу пользовательской актив
 
 **Стек:** Python, pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn
 
-[Перейти к проекту →](ССЫЛКА)
+[Перейти к проекту →](https://github.com/mdenisennko/mental-health-analysis)
 
 ---
 
