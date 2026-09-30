@@ -55,7 +55,7 @@
 
 **Стек:** SQL, PostgreSQL, Product & Process Analytics
 
-[Перейти к проекту →](ССЫЛКА)
+[Перейти к проекту →](https://github.com/mdenisennko/registration-funnel-analysis)
 
 ---
 
