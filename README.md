@@ -67,7 +67,7 @@ SQL-проект по анализу пользовательской актив
 
 **Стек:** SQL, PostgreSQL, CTE, Window Functions
 
-[Перейти к проекту →](ССЫЛКА)
+[Перейти к проекту →](https://github.com/mdenisennko/stackoverflow-sql-analysis)
 
 ---
 
