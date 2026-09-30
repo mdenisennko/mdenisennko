@@ -81,7 +81,7 @@ SQL-проект по анализу пользовательской актив
 
 **Стек:** Python, pandas, NumPy, statsmodels, Matplotlib, Seaborn
 
-[Перейти к проекту →](ССЫЛКА)
+[Перейти к проекту →](https://github.com/mdenisennko/taxi-pricing-analysis)
 
 ---
 
