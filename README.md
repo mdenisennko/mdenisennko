@@ -18,32 +18,6 @@
 
 ## Featured projects
 
-### 📊 Registration Funnel Analysis
-**SQL · PostgreSQL · Product Analytics**
-
-Анализ event-данных процесса регистрации пользователей.
-
-Исследовала:
-- conversion rate и drop-off;
-- длительность процесса и отдельных этапов;
-- точки остановки;
-- response time;
-- повторные Submit;
-- динамику метрик во времени.
-
-**Ключевые результаты:**
-- конверсия в успешную регистрацию — **96,13%**;
-- основной bottleneck — этап идентификации;
-- доля остановок на нём снизилась с **3,01% до 2,30%**;
-- наиболее длительный этап — прикрепление документов;
-- повторные Submit на этом этапе — **13,08%** кейсов.
-
-Использовала `JOIN`, `CTE`, `LEAD`, `ROW_NUMBER`, `FILTER`, `CASE WHEN`, `DATE_TRUNC`.
-
-👉 [Открыть проект](https://github.com/mdenisennko/registration-funnel-analysis)
-
----
-
 ### 🧮 Stack Overflow User Activity Analysis
 **SQL · PostgreSQL**
 
