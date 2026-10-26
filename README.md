@@ -102,16 +102,6 @@ SQL-проект по анализу пользовательской актив
 
 ---
 
-## Focus
-
-Сейчас больше всего развиваюсь в:
-- Product Analytics
-- Data Analytics
-- Business Analytics
-- SQL & Statistical Analysis
-
----
-
 ## Контакты
 
 Telegram: [@denisennnko](https://t.me/denisennnko)  
